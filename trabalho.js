@@ -1,1 +1,3 @@
-console.log("Hello");
+function teste(){
+    alert("ola");
+}
